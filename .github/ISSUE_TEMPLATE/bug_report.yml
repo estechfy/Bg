@@ -1,0 +1,39 @@
+name: 🐛 バグ・不具合の報告 (Bug Report)
+description: アプリの動作不良やエラー・クラッシュなどを報告します
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        バグの報告ありがとうございます。開発者が迅速に調査できるよう、できる限り詳細にご記入をお願いいたします。
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題の内容 (Problem Description)
+      description: どのような問題が発生したかを教えてください。
+      placeholder: 例: 録画開始ボタンを押しても録画が開始されない、等
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 再現手順 (Steps to Reproduce)
+      description: 問題が発生する手順を教えてください。
+      placeholder: |
+        1. アプリを起動
+        2. 全画面カメラモードを開く
+        3. シャッターボタンを押す
+    validations:
+      required: false
+  - type: textarea
+    id: device_info
+    attributes:
+      label: ご利用環境 (Device Information)
+      description: ご利用の端末・Androidバージョンを記入してください（アプリから自動入力されている場合はそのままでOKです）。
+      placeholder: |
+        - 端末名 (Model): Pixel 10a
+        - Androidバージョン: Android 15
+        - アプリバージョン: 1.0 (1)
+    validations:
+      required: false

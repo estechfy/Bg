@@ -1,0 +1,24 @@
+name: 💡 機能要望・改善提案 (Feature Request)
+description: 新しい機能やUI/UXの改善アイデアを提案します
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        新機能のアイデアや改善のご提案ありがとうございます！
+  - type: textarea
+    id: feature
+    attributes:
+      label: ご要望・提案内容 (Feature Description)
+      description: 追加してほしい機能や、改善してほしい点について教えてください。
+      placeholder: 例: 音声録音時のビットレートを自由に選択できるようにしてほしい
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 利用シーン・背景 (Use Case / Motivation)
+      description: どのような場面でこの機能が必要と感じましたか？
+    validations:
+      required: false
