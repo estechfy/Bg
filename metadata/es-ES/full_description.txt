@@ -1,0 +1,45 @@
+【Grabadora de video y voz en segundo plano con pantalla apagada】
+
+"Bg" es una herramienta confiable diseñada para capturar videos en 4K y notas de voz nítidas completamente en segundo plano, incluso con la pantalla apagada o mientras usas otras aplicaciones.
+
+Diseñado con una arquitectura 100% fuera de línea, sin anuncios y priorizando la privacidad. Perfecto para conferencias, reuniones, grabaciones largas para ahorrar batería y seguridad personal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Principales usos de Bg
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐶【1】Mascotas y bebés durmiendo
+・Deja el teléfono con la pantalla apagada para capturar momentos naturales de mascotas o bebés sin molestarlos.
+・Usa la grabación programada para grabar automáticamente a horas determinadas cada día.
+
+🏛️【2】Conferencias, exposiciones y clases
+・Captura diapositivas y notas importantes discretamente sin interrumpir a los demás.
+・Modo de cámara completa con controles rápidos (compensación de exposición, cuadrícula, temporizador).
+
+🎙️【3】Reuniones de negocios y notas de voz
+・Grabación de audio de alta fidelidad (AAC 48kHz) con la pantalla apagada.
+・El modo de solo audio evita el sobrecalentamiento y ahorra batería durante reuniones largas.
+
+🔘【4】Botones inteligentes y automatización (Bluetooth / Tasker / MacroDroid)
+・Inicia la grabación al instante presionando un botón Bluetooth sin sacar el teléfono del bolsillo.
+
+🛡️【5】Privacidad absoluta y funcionamiento 100% offline
+・Todos los archivos se guardan en el almacenamiento privado y protegido del dispositivo.
+・Cero transmisión a internet, cero rastreo y sin SDK de anuncios.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Funciones avanzadas
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・4K UHD, Full HD, 60fps, 10-bit HDR y codificación eficiente H.265 (HEVC)
+・Estabilización de video (EIS / OIS) y ajuste de exposición
+・Cálculo en tiempo real del tiempo de grabación restante según el almacenamiento
+・Optimizado para el modo de ahorro de batería de Android (Doze)
+・Gestor de archivos integrado para reproducir y compartir con seguridad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Compra única de por vida (Sin suscripción)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・¡Prueba todas las funciones gratis hasta 30 veces!
+・Desbloquea el uso ilimitado con una única compra Pro. Sin cobros mensuales recurrentes ni cargos ocultos.
+
+*Aviso: Diseñado para usos legítimos como actas de reuniones y seguridad personal. Respete las leyes locales vigentes.

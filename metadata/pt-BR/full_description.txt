@@ -1,0 +1,45 @@
+【Gravador de Vídeo e Áudio em Segundo Plano com Tela Apagada】
+
+O "Bg" é uma ferramenta segura e eficiente projetada para gravar vídeos em 4K e áudios nítidos totalmente em segundo plano — mesmo com a tela bloqueada ou enquanto você usa outros aplicativos.
+
+Desenvolvido com arquitetura 100% offline, sem anúncios e com total privacidade. Ideal para reuniões, aulas, gravações longas com economia de bateria e segurança pessoal.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Principais Casos de Uso do Bg
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐶【1】Animais de Estimação e Bebês Dormindo
+・Deixe o celular com a tela apagada para capturar momentos naturais de pets ou bebês sem perturbá-los.
+・Use a gravação agendada para iniciar capturas automáticas em horários definidos.
+
+🏛️【2】Aulas, Seminários e Palestras
+・Registre slides e apresentações importantes sem atrapalhar a concentração de quem está ao redor.
+・Modo de câmera em tela cheia com ajustes rápidos (exposição, grade, temporizador).
+
+🎙️【3】Reuniões de Negócios e Gravador de Voz
+・Gravação de áudio de alta fidelidade (AAC 48kHz) com a tela totalmente apagada.
+・O modo exclusivo de áudio evita superaquecimento e economiza bateria ao máximo.
+
+🔘【4】Botões Inteligentes e Automação (Bluetooth / Tasker / MacroDroid)
+・Inicie uma gravação instantaneamente com um clique em um botão Bluetooth sem tirar o telefone do bolso.
+
+🛡️【5】Privacidade Total e Funcionamento Offline
+・Todos os vídeos e gravações são salvos com segurança no armazenamento privado do dispositivo.
+・Sem envio para a internet, sem rastreamento e sem SDKs de publicidade.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Recursos Profissionais
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Gravação em 4K UHD, Full HD, 60fps, HDR 10-bit e compressão eficiente H.265 (HEVC)
+・Estabilização de vídeo (EIS / OIS) e ajuste de compensação de exposição
+・Cálculo em tempo real do tempo restante de gravação baseado no armazenamento
+・Compatível com os mais recentes padrões de economia de bateria do Android (Modo Doze)
+・Gerenciador de mídia integrado para reproduzir e compartilhar com segurança
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Compra Única Vitalícia (Sem Assinatura)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Teste todos os recursos gratuitamente por até 30 vezes!
+・Desbloqueie o acesso ilimitado com uma única compra da versão Pro. Sem mensalidades nem taxas ocultas.
+
+*Nota: Este aplicativo foi criado para usos legítimos, como atas de reuniões e segurança pessoal. Respeite as leis e regulamentações locais.

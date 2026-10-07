@@ -1,0 +1,45 @@
+【High-Quality Background Video & Audio Recorder with Screen Off】
+
+"Bg" is a reliable background capture tool designed to record high-quality 4K videos and crystal-clear voice memos completely in the background—even when your screen is turned off or while using other apps.
+
+Built with a 100% offline, privacy-first architecture with zero ads. Perfect for lectures, business meetings, battery-saving long recordings, and personal security.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Top Use Cases for Bg
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐶【1】Pet Monitoring & Baby Sleeping Records
+・Set up your phone with the screen off to record natural moments of sound-sensitive pets or sleeping babies without disturbance.
+・Use scheduled recording to automatically capture video at designated times every day.
+
+🏛️【2】Lectures, Seminars & Conferences
+・Capture presentation slides and key moments quietly without disturbing the audience.
+・Full-screen camera mode with quick controls (exposure compensation, grid lines, timer) for precise framing.
+
+🎙️【3】Business Meetings & Voice Dictation
+・High-fidelity audio recording (AAC 48kHz) with the screen completely off.
+・Dedicated audio-only mode prevents overheating and drastically saves battery for all-day recording.
+
+🔘【4】Smart Buttons & Automation (Bluetooth / Tasker / MacroDroid)
+・Start recording instantly by clicking a connected Bluetooth button or smart tag without taking your phone out of your pocket.
+
+🛡️【5】Absolute Privacy & Offline Security
+・All videos and recordings are stored securely in your device's private app storage.
+・Zero internet transmission, zero tracking, and zero advertising SDKs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Professional Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・4K UHD, Full HD, 60fps, 10-bit HDR (HLG), and efficient H.265 (HEVC) recording
+・Video stabilization (EIS / OIS) and exposure compensation (EV)
+・Real-time remaining recording time calculation based on available storage
+・Optimized for the latest Android battery-saving (Doze mode) standards
+・Built-in media manager to preview, play, and safely share files
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Lifetime Purchase (No Subscriptions)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Try all features for free up to 30 times!
+・Unlock unlimited usage with a single one-time Pro purchase. No recurring monthly subscriptions or hidden fees.
+
+*Note: This app is intended for legitimate use such as meeting minutes, lecture records, and personal security. Please respect local laws and regulations.

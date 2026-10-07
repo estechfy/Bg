@@ -1,0 +1,45 @@
+【Registratore Video e Audio in Background con Schermo Spento】
+
+"Bg" è uno strumento professionale per registrare video in 4K e memo vocali nitidi completamente in background, anche quando lo schermo è spento o mentre usi altre applicazioni.
+
+Progettato con un'architettura 100% offline, senza pubblicità e nel totale rispetto della privacy. Ideale per lezioni universitarie, riunioni di lavoro, registrazioni a risparmio energetico e sicurezza personale.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ I 5 Principali Utilizzi di Bg
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐶【1】Animali Domestici e Bambini che Dormono
+・Posiziona lo smartphone a schermo spento per riprendere i tuoi animali o il bambino senza disturbarli.
+・Usa la registrazione programmata per avviare automaticamente catture a orari stabiliti.
+
+🏛️【2】Conferenze, Mostre e Lezioni
+・Fotografa diapositive importanti senza disturbare il silenzio della sala.
+・Modalità fotocamera a schermo intero con controlli rapidi (esposizione, griglia, timer).
+
+🎙️【3】Riunioni di Lavoro e Registratore Vocale
+・Registrazione audio ad alta fedeltà (AAC 48kHz) a schermo completamente spento.
+・La modalità solo audio evita il surriscaldamento e risparmia drasticamente la batteria.
+
+🔘【4】Pulsanti Smart e Automazione (Bluetooth / Tasker / MacroDroid)
+・Avvia la registrazione all'istante premendo un pulsante Bluetooth senza estrarre il telefono dalla tasca.
+
+🛡️【5】Massima Privacy e Funzionamento 100% Offline
+・Tutti i file sono salvati nell'area privata e protetta del dispositivo.
+・Nessun invio su Internet, nessun tracciamento e nessun SDK pubblicitario.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Caratteristiche Professionali
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Registrazione in 4K UHD, Full HD, 60fps, HDR a 10 bit ed efficiente codifica H.265 (HEVC)
+・Stabilizzazione video (EIS / OIS) e regolazione dell'esposizione
+・Calcolo in tempo reale del tempo di registrazione rimanente in base alla memoria libera
+・Ottimizzato per gli standard di risparmio batteria Android (modalità Doze)
+・Gestore multimediale integrato per riprodurre e condividere in sicurezza
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Acquisto Unico a Vita (Nessun Abbonamento)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Prova tutte le funzioni gratuitamente fino a 30 volte!
+・Sblocca l'uso illimitato con un unico acquisto della versione Pro. Nessun costo mensile ricorrente.
+
+*Nota: Questo strumento è destinato a usi legittimi come verbali di riunioni e sicurezza personale. Si prega di rispettare le normative locali.

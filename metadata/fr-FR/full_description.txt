@@ -1,0 +1,45 @@
+【Enregistreur vidéo et audio en arrière-plan avec écran éteint】
+
+« Bg » est un outil fiable conçu pour enregistrer des vidéos 4K de haute qualité et des mémos vocaux limpides en arrière-plan, même lorsque l'écran est éteint ou pendant l'utilisation d'autres applications.
+
+Conçu avec une architecture 100 % hors ligne, sans aucune publicité et respectant votre vie privée. Parfait pour les cours, les réunions, les longs enregistrements économes en batterie et la sécurité personnelle.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Principaux cas d'utilisation de Bg
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🐶【1】Animaux de compagnie et bébés endormis
+・Placez le téléphone écran éteint pour filmer naturellement vos animaux ou votre bébé sans les déranger.
+・Utilisez l'enregistrement programmé pour lancer des captures automatiques chaque jour.
+
+🏛️【2】Conférences, expositions et cours
+・Photographiez des diapositives et documents importants sans perturber le silence ambiant.
+・Mode caméra plein écran avec réglages rapides (exposition, grille, retardateur).
+
+🎙️【3】Réunions professionnelles et dictaphone
+・Enregistrement audio haute fidélité (AAC 48 kHz) avec l'écran totalement éteint.
+・Le mode audio dédié évite la surchauffe et économise la batterie pour les longues journées.
+
+🔘【4】Boutons connectés & automatisation (Bluetooth / Tasker / MacroDroid)
+・Lancez un enregistrement d'un simple clic sur un bouton Bluetooth sans sortir le téléphone de votre poche.
+
+🛡️【5】Confidentialité totale et fonctionnement hors ligne
+・Tous les fichiers sont conservés dans le stockage privé et sécurisé de l'appareil.
+・Aucune transmission internet, aucun traçage et aucun kit publicitaire.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Spécifications professionnelles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・4K UHD, Full HD, 60fps, HDR 10-bit et encodage efficace H.265 (HEVC)
+・Stabilisation vidéo (EIS / OIS) et correction d'exposition
+・Calcul en temps réel du temps d'enregistrement restant selon l'espace libre
+・Optimisé pour les règles d'économie d'énergie Android (mode Doze)
+・Gestionnaire multimédia intégré pour lire et partager en toute sécurité
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◆ Achat unique à vie (Sans abonnement)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・Essayez toutes les fonctionnalités gratuitement jusqu'à 30 fois !
+・Débloquez l'accès illimité avec un seul achat Pro. Aucun abonnement mensuel ni frais cachés.
+
+*Remarque : Destiné à un usage légitime (comptes-rendus, mémos et sécurité personnelle). Veuillez respecter les lois locales en vigueur.
